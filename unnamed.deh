@@ -1,0 +1,190 @@
+Patch File for DeHackEd v3.0
+# Created with WhackEd4 1.2.4 BETA
+# Note: Use the pound sign ('#') to start comment lines.
+
+Doom version = 21
+Patch format = 6
+
+
+Thing 13 (Demon)
+Pain sound = 28
+Action sound = 29
+
+Thing 19 (Lost Soul)
+Pain sound = 47
+Action sound = 49
+
+Thing 20 (Spiderdemon)
+Attack sound = 1
+
+Thing 24 (SS Nazi)
+Pain sound = 100
+Action sound = 48
+
+Pointer 415 (Frame 738)
+Codep Frame = 14
+
+Pointer 417 (Frame 740)
+Codep Frame = 14
+
+Text 440 440
+Once you beat the big badasses and
+clean out the moon base you're supposed
+to win, aren't you? Aren't you? Where's
+your fat reward and ticket home? What
+the hell is this? It's not supposed to
+end this way!
+
+It stinks like rotten meat, but looks
+like the lost Deimos base.  Looks like
+you're stuck on The Shores of Hell.
+The only way out is through.
+
+To continue the DOOM experience, play
+The Shores of Hell and its amazing
+sequel, Inferno!
+Co se to tam proboha delo? 
+Elen si v hlave promita, co se prave stalo.
+Kam vsichni zmizeli? Co tam delalo to mrtve telo? 
+Jsem tady sama, nebo jsou dalsi prezivsi?
+Na tyto otazky nedostala bohuzel zadnou odpoved. 
+Mozna je to nejaka mimozemska invaze?
+Pekelna invaze? Kdo vi. Ja ne. 
+Hlavne, ze tady maji Starbucks.
+Elen se rozhlizi kolem sebe, a potom hlasite vykrikne:
+JA SE VAS PEKELNYCH BESTII NEBOJIM!!
+UZ TED JE MI LITO VASICH RODIN!
+Text 466 465
+You've done it! The hideous cyber-
+demon lord that ruled the lost Deimos
+moon base has been slain and you
+are triumphant! But ... where are
+you? You clamber to the edge of the
+moon and look down to see the awful
+truth.
+
+Deimos floats above Hell itself!
+You've never heard of anyone escaping
+from Hell, but you'll make the bastards
+sorry they ever heard of you! Quickly,
+you rappel down to  the surface of
+Hell.
+
+Now, it's on to the final chapter of
+DOOM! -- Inferno.Proboha, uz asi zacinam silet...
+Rika si Elen.
+Zdalo se mi to, nebo tam 
+opravdu byla obrovska letajici
+jablka s hrozivymi obliceji? 
+Sama uz ani nevedela, cemu ma verit.
+Snad neztloustnu z toho fast foodu.
+Asi ne, mela jsem totiz i Hugovu stavu!
+Elenin stastny vyraz ji brzo spadl
+z tvare kdyz si uvedomila, ze jeste 
+porad neni po vsem.
+Kolik tech pater jeste bude?
+Mozna uz jen 1? Boze prosim,uz jen 1!
+Elen mela pravdu, uz ji totiz opravdu 
+zbyvalo jen 1 patro.
+Text 492 302
+The loathsome spiderdemon that
+masterminded the invasion of the moon
+bases and caused so much death has had
+its ass kicked for all time.
+
+A hidden doorway opens and you enter.
+You've proven too tough for Hell to
+contain, and now Hell at last plays
+fair -- for you emerge from the door
+to see the green fields of Earth!
+Home at last.
+
+You wonder what's been happening on
+Earth while you were battling evil
+unleashed. It's good that no Hell-
+spawn could have come through that
+door with you ...ANO!! KONECNE!!
+vykrikne zvesela elen. 
+ted uz jen najit vychod a konecne
+budu moct jit domu a povedet
+svym sledujicim na instagramu
+o tomhle obchodaku hruzy!
+tentokrat budu urcite mit vice
+nez 5 divaku! 
+elen vystoupi ven a naposledy 
+se jeste podiva na tu hruzostrasnou
+budovu, ze ktere prave unikla.
+Text 503 485
+the spider mastermind must have sent forth
+its legions of hellspawn before your
+final confrontation with that terrible
+beast from hell.  but you stepped forward
+and brought forth eternal damnation and
+suffering upon the horde as a true hero
+would in the face of something so evil.
+
+besides, someone was gonna pay for what
+happened to daisy, your pet rabbit.
+
+but now, you see spread before you more
+potential pain and gibbitude as a nation
+of demons run amok among our cities.
+
+next stop, hell on earth!wow, ty jsi opravdu uplne sam/a dokazal/a
+najit tento trapny tajny level! dobra prace!
+muzes se hezky poplacat po zadech a umrit 
+s vedomim, ze jsi v zivote dosahl/a neceho
+opravdu vyjimecneho. 
+
+pokud to nebylo poznat z tretiho levelu, 
+uz se mi prestalo chtit na elen pracovat,
+takze jsem proste treti level jen tak
+rychle splacal dohromady. nekdy v budoucnu
+ale asi jeste elen zrecykluju na nejaky jiny
+wad, a ten uz poradne dodelam. 
+
+mezitim se muzete kochat touto krasnou fotkou:
+Text 25 25
+Picked up a health bonus.Picked up a snickers bar.
+Text 25 26
+Picked up an armor bonus.Picked up an energy drink.
+Text 25 21
+Picked up a blue keycard.Picked up a blue key.
+Text 27 23
+Picked up a yellow keycard.Picked up a yellow key.
+Text 24 20
+Picked up a red keycard.Picked up a red key.
+Text 21 19
+Picked up a stimpack.Picked up a coffee.
+Text 41 40
+Picked up a medikit that you REALLY need!Picked up a burger that you REALLY need!
+Text 20 19
+Picked up a medikit.Picked up a burger.
+Text 17 16
+Picked up a clip.Picked up seeds.
+Text 27 25
+Picked up a box of bullets.Picked up a bag of seeds.
+Text 19 19
+Picked up a rocket.Picked up an apple.
+Text 27 26
+Picked up a box of rockets.Picked up an apple basket.
+Text 25 23
+Picked up an energy cell.Picked up a power bank.
+Text 30 27
+Picked up an energy cell pack.Picked up a big power bank.
+Text 27 26
+Picked up 4 shotgun shells.Picked up 4 banana shells.
+Text 34 33
+Picked up a box of shotgun shells.Picked up a box of banana shells.
+Text 30 26
+You got the BFG9000!  Oh, yes.You got an iPad!  Oh, yes.
+Text 28 31
+A chainsaw!  Find some meat!An electric toothbrush! BRRRRR!
+Text 28 27
+You got the rocket launcher!You got the apple launcher!
+Text 23 21
+You got the plasma gun!You got an iPhone 11!
+Text 20 19
+You got the shotgun!You got the banana!
+Text 26 25
+You got the super shotgun!You got the super banana!

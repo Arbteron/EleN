@@ -1,0 +1,74 @@
+{
+    "engine": "tables_doom19u",
+    "iwad": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Ultimate Doom\\base\\DOOM.WAD",
+    "pwads": [
+        "C:\\Users\\jirka_000\\Desktop\\Doom\\EleN\\EleN.wad"
+    ],
+    "windows": {
+        "things": {
+            "x": 0,
+            "y": 0,
+            "width": 980,
+            "height": 650,
+            "visible": 1
+        },
+        "states": {
+            "x": 39,
+            "y": -19,
+            "width": 1024,
+            "height": 732,
+            "visible": 1
+        },
+        "sounds": {
+            "x": 0,
+            "y": 0,
+            "width": 430,
+            "height": 480,
+            "visible": 1
+        },
+        "maximized": "strings",
+        "active": "strings",
+        "strings": {
+            "x": 0,
+            "y": 0,
+            "width": 640,
+            "height": 480,
+            "visible": 1
+        },
+        "weapons": {
+            "x": 0,
+            "y": 0,
+            "width": 560,
+            "height": 425,
+            "visible": 0
+        },
+        "ammo": {
+            "x": 0,
+            "y": 0,
+            "width": 520,
+            "height": 250,
+            "visible": 0
+        },
+        "cheats": {
+            "x": 0,
+            "y": 0,
+            "width": 340,
+            "height": 401,
+            "visible": 0
+        },
+        "misc": {
+            "x": 0,
+            "y": 0,
+            "width": 420,
+            "height": 350,
+            "visible": 0
+        },
+        "par": {
+            "x": 0,
+            "y": 0,
+            "width": 400,
+            "height": 380,
+            "visible": 0
+        }
+    }
+}
